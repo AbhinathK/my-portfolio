@@ -1,2 +1,3 @@
-# my-portfolio
-This is my professional portfolio
+# Abhinath Kumar's portfolio
+
+This is my professional portfolio. Uses AWS and ReactJD
