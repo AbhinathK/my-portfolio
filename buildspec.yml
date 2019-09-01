@@ -4,11 +4,10 @@ phases:
   build:
     commands:
       - echo Nothing to do yet
-      - echo $CODEBUILD_SRC_DIR
 artifacts:
   files:
-    -index.html
-    -favicon.ico
-    -CVPDF.pdf
-    -styles/main.css
-    -images/*
+    - index.html
+    - favicon.ico
+    - CVPDF.pdf
+    - styles/main.css
+    - images/*
